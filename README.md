@@ -2,7 +2,7 @@
 
 ## Mahdollisesti tulossa hotelli mlo myöhemmin?
 
-## Päivitykset / Change-lo
+## Päivitykset / Change-log
 
 **Versio 1.0.2**
 

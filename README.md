@@ -6,12 +6,13 @@
 
 **Version 1.0.2**
 
-- Hotellin tolpat korjattu
+- Hotels bollards fixed
 
-- Katolle lisätty helipad
+- Added a helipad to the roof
 
 **Version 1.0.1**
 
-- Lisätty hotellin ympärille harmaita tolppia
-Tämä estää autoilla hotellille ajamisen, hotellin tallille pääsee silti normaalisti
+- Added multiple bollards to prevent driving into the hotel
+The garage can still be accessed normally.
+
 

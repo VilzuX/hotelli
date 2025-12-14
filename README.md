@@ -1,16 +1,17 @@
-## Simppeli hotelli ymap pankkiautomaatilla
+## A simple hoteml ymap with an ATM
 
-## Mahdollisesti tulossa hotelli mlo myöhemmin?
+## A hotel MLO coming later possibly?
 
-## Päivitykset / Change-log
+## Change-log
 
-**Versio 1.0.2**
+**Version 1.0.2**
 
 - Hotellin tolpat korjattu
 
 - Katolle lisätty helipad
 
-**Versio 1.0.1**
+**Version 1.0.1**
 
 - Lisätty hotellin ympärille harmaita tolppia
 Tämä estää autoilla hotellille ajamisen, hotellin tallille pääsee silti normaalisti
+

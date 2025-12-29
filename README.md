@@ -1,19 +1,18 @@
-## A simple hotel ymap with an ATM
+## A simple hoteml ymap with an ATM
 
 ## A hotel MLO coming later possibly?
+
+## Drag & drop installation
 
 ## Change-log
 
 **Version 1.0.2**
 
-- Hotels bollards fixed
+- Hotellin tolpat korjattu
 
-- Added a helipad to the roof
+- Katolle lisätty helipad
 
 **Version 1.0.1**
 
-- Added multiple bollards to prevent driving into the hotel
-The garage can still be accessed normally.
-
-
-
+- Lisätty hotellin ympärille harmaita tolppia
+Tämä estää autoilla hotellille ajamisen, hotellin tallille pääsee silti normaalisti

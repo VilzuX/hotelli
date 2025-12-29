@@ -1,4 +1,4 @@
-## A simple hoteml ymap with an ATM
+## A simple hotel ymap with an ATM
 
 ## A hotel MLO coming later possibly?
 
@@ -14,5 +14,6 @@
 
 - Added multiple bollards to prevent driving into the hotel
 The garage can still be accessed normally.
+
 
 

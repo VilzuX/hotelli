@@ -10,9 +10,10 @@
 
 - Hotel poles fixed
 
-- Katolle lisätty helipad
+- Added a helipad on the roof
 
 **Version 1.0.1**
 
-- Lisätty hotellin ympärille harmaita tolppia
-Tämä estää autoilla hotellille ajamisen, hotellin tallille pääsee silti normaalisti
+- Added grey poles arount the hotel
+This preventa players from driving to the hotel with vehicles.
+You can still drive there via roads.

@@ -8,7 +8,7 @@
 
 **Version 1.0.2**
 
-- Hotellin tolpat korjattu
+- Hotel poles fixed
 
 - Katolle lisätty helipad
 

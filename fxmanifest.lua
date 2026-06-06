@@ -2,6 +2,6 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'VilzuX Development'
-version '1.2.0'
+version '1.0.2'
 
 this_is_a_map 'yes'

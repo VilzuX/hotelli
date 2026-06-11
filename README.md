@@ -1,19 +1,46 @@
-## A simple hotel ymap with an ATM
+**🏨 Hotel YMAP**
+---
 
-## A hotel MLO coming later possibly?
+A simple hotel YMAP featuring an ATM and improved surroundings for a more immersive roleplay experience.
 
-## Drag & drop installation
+✨ Features
 
-## Change-log
+- 🏨 Hotel exterior area
 
-**Version 1.0.2**
+- 💳 Functional ATM location
 
-- Hotel poles fixed
+- 🚁 Rooftop helipad
 
-- Added a helipad on the roof
+- 🚧 Protective barriers to prevent vehicle abuse
 
-**Version 1.0.1**
+- 📦 Easy drag & drop installation
 
-- Added grey poles arount the hotel
-This preventa players from driving to the hotel with vehicles.
-You can still drive there via roads.
+📥 Installation
+---
+1. Download the resource.
+
+2. Drag and drop it into your server's resources folder.
+
+3. Add the resource name to your server.cfg.
+
+4. Restart your server.
+
+**📋 Changelog**
+---
+
+Version 1.0.2
+Fixed hotel poles.
+Added a rooftop helipad.
+
+---
+
+Version 1.0.1
+Added grey safety poles around the hotel.
+Prevents players from driving directly onto the hotel property with vehicles.
+Access is still possible through designated roadways.
+
+---
+
+📌 Future Plans
+
+🏢 Hotel MLO (possible future release)

@@ -1,6 +1,11 @@
 **🏨 Hotel YMAP**
 ---
 
+![Version](https://img.shields.io/badge/version-1.0.2-red)
+![FiveM](https://img.shields.io/badge/FiveM-Compatible-red)
+![Installation](https://img.shields.io/badge/install-Drag%20%26%20Drop-critical)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
+
 A simple hotel YMAP featuring an ATM and improved surroundings for a more immersive roleplay experience.
 
 ✨ Features

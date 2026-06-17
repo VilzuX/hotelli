@@ -49,3 +49,5 @@ Access is still possible through designated roadways.
 📌 Future Plans
 
 🏢 Hotel MLO (possible future release)
+
+💡 If you have any ideas i should add please open an pull-request or send it in the Discord provided
